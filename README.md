@@ -1,6 +1,6 @@
 # Melomaniac
 
-<p>A music streaming web application created on behalf of the Web Application Development Course Module (CST 226-2) </p>
+<p>A music streaming web application created on behalf of the Web Application Development Course Module (CST 226-2) in 2nd Year 2nd Semester of Computer Science and Technology Degree Program</p>
 
 <h3>Technologies Used</h3>
 <ul>
